@@ -1,0 +1,22 @@
+"prefix": "mf",
+"schematics": {
+        "@schematics/angular:component": {
+          "style": "less",
+          "spec": false
+        },
+        "@schematics/angular:directive": {
+          "spec": false
+        },
+        "@schematics/angular:modules": {
+          "spec": false
+        },
+        "@schematics/angular:pipe": {
+          "spec": false
+        },
+        "@schematics/angular:service": {
+          "spec": false
+        },
+        "@schematics/angular:class": {
+          "spec": false
+        }
+      }
